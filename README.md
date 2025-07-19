@@ -32,16 +32,25 @@ Model tuning, persistence, and deployment basics
 Interactive Q&A
 
 🗂️ Repo Contents
+
 File/Folder	Description
+
 Automating_ML.ipynb	Annotated Jupyter Notebook with stepwise code & notes
+
 Colab-compatible notebook : https://colab.research.google.com/drive/1W1DXglb6DBx9bFNJnoikaFcYyXGQZhJ9?usp=sharing
+
 Slides.pptx	Presentation slides from the talk
+
 💡 How to Use
+
 1. Clone the Repository
 bash
+
 git clone https://github.com/yourusername/automate-ml-pycaret.git
+
 cd automate-ml-pycaret
-2. Run the Notebook
+
+3. Run the Notebook
 Open Automating_ML.ipynb in VS Code or upload to Google Colab
 
 All key code cells include explanations as markdown cells above them.
