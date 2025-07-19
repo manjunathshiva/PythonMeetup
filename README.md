@@ -1,4 +1,5 @@
 Automating ML with PyCaret
+
 Welcome to the repository for the "Automating ML with PyCaret" talk and live demo!
 
 This repo contains:
@@ -13,7 +14,7 @@ This repo contains:
 Title: Automating ML with PyCaret
 Event: BangPypers Meetup
 Date: July 19, 2025
-Speaker: [Manjunath Janardhan]
+Speaker: Manjunath Janardhan
 
 Agenda
 Introduction to Machine Learning & PyCaret
@@ -51,7 +52,7 @@ Python 3.11
 
 pycaret (install with pip install pycaret)
 
-See beginning of the notebook for all dependencies
+See the beginning of the notebook for all dependencies
 
 Works in all modern Colab/Jupyter environments
 
