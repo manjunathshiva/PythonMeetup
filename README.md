@@ -11,9 +11,13 @@ This repo contains:
 📊 Annotated code and resources to get you started with PyCaret for automated machine learning
 
 🚀 Session Overview
+
 Title: Automating ML with PyCaret
+
 Event: BangPypers Meetup
+
 Date: July 19, 2025
+
 Speaker: Manjunath Janardhan
 
 Agenda
