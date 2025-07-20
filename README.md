@@ -46,9 +46,9 @@ Slides.pptx	Presentation slides from the talk
 1. Clone the Repository
 bash
 
-git clone https://github.com/yourusername/automate-ml-pycaret.git
+git clone https://github.com/manjunathshiva/PythonMeetup.git
 
-cd automate-ml-pycaret
+cd PythonMeetup
 
 3. Run the Notebook
 Open Automating_ML.ipynb in VS Code or upload to Google Colab
